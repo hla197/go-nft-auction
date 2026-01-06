@@ -1,0 +1,11 @@
+database:
+  name: go-chain  #数据库名称
+  host: 127.0.0.1 #数据库链接，如 127.0.0.1:3306
+  username: root #用户名
+  password: 222333 #数据库密码
+  charset: utf8  #数据库编码
+  parsetime: true
+
+block_chain:
+  rpc_url: https://goerli.infura.io/v3/    #  区块链rpc地址  infura.io 可以获取
+
