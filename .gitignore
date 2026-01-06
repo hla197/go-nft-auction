@@ -2,6 +2,6 @@
 /.idea/
 /node_modules
 /logs
-.config.dev.yaml
-.config.prod.yaml
+config.dev.yaml
+config.prod.yaml
 
